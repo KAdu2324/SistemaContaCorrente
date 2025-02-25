@@ -1,0 +1,16 @@
+package application;
+
+import entities.Conta;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		Conta cc1 = new Conta(1001, "Maria", 1000.0);
+		cc1.saque(200.0);
+		System.out.println(cc1.getSaldo());
+		
+	}
+
+}

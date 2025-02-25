@@ -1,0 +1,14 @@
+package application;
+
+import entities.ContaEmpresarial;
+import entities.Funcionario;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}
